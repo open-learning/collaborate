@@ -1,3 +1,3 @@
-# Open Learning Collaborate
+# Open Learning `collaborate`
 
-Collaborate is a online collaboration platform that among other things can facillitate collaborative tools to teach and study [`git4ol`](//github.com/open-learning/git4ol) lessons.
+`collaborate` is a online collaboration platform that among other things can provide collaborative tools and applications to teach and study [`git4ol`](//github.com/open-learning/git4ol) lessons.
